@@ -1,0 +1,8 @@
+
+{
+  "name": "Cecilia's Sport Wardrobe - Elite Athletics",
+  "description": "High-end landing page for Alo Yoga and Lululemon sport clothes in Mexico City, featuring interest-free payments and personalized service.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
