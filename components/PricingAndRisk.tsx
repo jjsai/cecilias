@@ -30,7 +30,7 @@ const PricingAndRisk: React.FC<{ lang: Language }> = ({ lang }) => {
           </p>
           <div className="pt-6 flex flex-col gap-3">
             <a
-              href="https://wa.me/5255513600006"
+              href="https://wa.me/525513600006"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full bg-black text-white py-4 rounded-xl font-bold tracking-tight hover:scale-105 transition-transform text-center"
