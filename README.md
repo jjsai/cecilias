@@ -1,17 +1,15 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="DQBanner" src="" />
 </div>
 
-# Run and deploy your AI Studio app
+# This landing page was cretae using Google AI Studio
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1CkLaBsWopH2HBI1SLFe71X03wLVTSDqK
+The page goal is to stablish Cecilia's business presence in Internet and help promoting her clothing sales.
+It is meant to be hosted at www.dataqub.com as a subdirectory using Coolify on a VSP manage by Contabo
 
 ## Run Locally
 
 **Prerequisites:**  Node.js
-
 
 1. Install dependencies:
    `npm install`
