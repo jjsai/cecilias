@@ -29,9 +29,14 @@ const PricingAndRisk: React.FC<{ lang: Language }> = ({ lang }) => {
               : 'Si tu pedido especial no cumple con tus expectativas de talla o calidad al momento de la entrega, lo cambiaremos o reembolsaremos en 7 días. Tu confianza es la base de nuestro negocio familiar.'}
           </p>
           <div className="pt-6 flex flex-col gap-3">
-            <button className="w-full bg-black text-white py-4 rounded-xl font-bold tracking-tight hover:scale-105 transition-transform">
+            <a
+              href="https://wa.me/5255513600006"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="w-full bg-black text-white py-4 rounded-xl font-bold tracking-tight hover:scale-105 transition-transform text-center"
+            >
               {lang === 'en' ? 'Order via WhatsApp' : 'Pedir por WhatsApp'}
-            </button>
+            </a>
             <p className="text-[10px] text-center text-black/30 font-bold uppercase tracking-widest">
               {lang === 'en' ? 'Zero Risk Decision' : 'Decisión con Riesgo Cero'}
             </p>
